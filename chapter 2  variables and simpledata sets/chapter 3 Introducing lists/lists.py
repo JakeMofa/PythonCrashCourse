@@ -11,4 +11,8 @@ print(bicycles[2])
 #prints the last value within a  list
 print(bicycles[-1])
 
-#now con
+#now concatenating messages with lists
+
+message = " Hello my name is " + bicycles[0].title() + " and i am " + bicycles[-1]
+
+print(message)

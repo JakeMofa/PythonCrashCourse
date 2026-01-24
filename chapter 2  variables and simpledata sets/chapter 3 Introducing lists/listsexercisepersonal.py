@@ -35,7 +35,7 @@ print(res)
     #print (x, y)
     
 
-#loops through and gives you all keys
+#loops through and gives you all  values
 #for x in  bicycles:
     #print(bicycles)
     
