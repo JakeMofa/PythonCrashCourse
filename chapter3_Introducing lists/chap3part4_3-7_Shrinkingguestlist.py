@@ -1,6 +1,8 @@
 guests = ['Angela', 'T-sha', 'Amo', 'Tyrone']
 cm = 'Tyrone'
 
+
+
 if cm in guests:
     print(cm + " can't make it to the dinner")
     guests.remove(cm)
@@ -25,7 +27,10 @@ for guest in guests:
 
 del guests[:]
 print(guests)
-        
+
+
+
+
         
         
     
